@@ -1,2 +1,4 @@
 # hello-world
-my fist repo
+My fist repo
+
+Hello, I'm having fun learning how to use github
